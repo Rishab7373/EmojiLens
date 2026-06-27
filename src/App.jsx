@@ -1,11 +1,14 @@
 import './App.css'
+import TicTacToe from './TicTacToe'
 
 function App() {
 
   return (
     <>
       <section id="center">
-        Ri and rey
+       Tic Tac Toe
+       
+       <TicTacToe />
       </section>
     </>
   )
